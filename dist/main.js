@@ -1,1 +1,1 @@
-console.log("First webpack app");
+(()=>{"use strict";!function(){let e=document.createElement("h1");e.innerHTML="Restaurant Spaghettio";let t=document.getElementById("content");t.appendChild(e);let n=document.createElement("img");n.src="/assets/spaghetti.jpg",n.width="300",n.height="300",t.appendChild(n);let i=document.createElement("p");i.innerHTML="Best Spaghetti in the world!!!",t.appendChild(i)}()})();

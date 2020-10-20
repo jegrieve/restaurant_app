@@ -1,1 +1,3 @@
-console.log("First webpack app")
+ import {pageLoad} from "./contents.js"
+
+pageLoad();
